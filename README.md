@@ -102,6 +102,16 @@ Referential operator with an indirect referential coroutine and  modernized IRP 
 
 Embedded #!T with referential operator with an indirect referential coroutine and modernized IRP syntax provoking panic in an inlined IPL binary:
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">RT plz: #!T TPL for IPL developers by <a href="https://twitter.com/OriPekelman?ref_src=twsrc%5Etfw">@OriPekelman</a> <a href="https://t.co/plMRs1uCnv">https://t.co/plMRs1uCnv</a> <a href="https://t.co/WcwAQLWVWg">pic.twitter.com/WcwAQLWVWg</a></p>&mdash; Ori A Pekelman (@OriPekelman) <a href="https://twitter.com/OriPekelman/status/1097161131418886144?ref_src=twsrc%5Etfw">February 17, 2019</a></blockquote>
+
+Source code of embed:
+
+```html
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">RT plz: #!T TPL for IPL developers by <a href="https://twitter.com/OriPekelman?ref_src=twsrc%5Etfw">@OriPekelman</a> <a href="https://t.co/plMRs1uCnv">https://t.co/plMRs1uCnv</a> <a href="https://t.co/WcwAQLWVWg">pic.twitter.com/WcwAQLWVWg</a></p>&mdash; Ori A Pekelman (@OriPekelman) <a href="https://twitter.com/OriPekelman/status/1097161131418886144?ref_src=twsrc%5Etfw">February 17, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
+
 > Warning: Note that Embedded #!T may require Javascript to render inlined binaries.
 
 # License
